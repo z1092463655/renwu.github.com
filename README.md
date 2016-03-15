@@ -1,2 +1,2 @@
 # renwu.github.com
-tset githubs page
+tset github pages
